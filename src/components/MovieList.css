@@ -1,0 +1,17 @@
+.movie-card {
+  margin-top: 20px;
+}
+
+.card {
+  height: 500px;
+  text-decoration: none;
+  color: black;
+}
+
+.card-title:hover {
+  text-decoration: none;
+}
+
+.card-text:hover {
+  text-decoration: none;
+}
